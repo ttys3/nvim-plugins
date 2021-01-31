@@ -5,7 +5,19 @@
 
 ### lsp
 
+`https://github.com/neovim/nvim-lspconfig` Quickstart configurations for the Nvim LSP client 
+
 `https://github.com/RishabhRD/nvim-lsputils` Better defaults for nvim-lsp actions 
+
+`https://github.com/hrsh7th/nvim-compe` Auto completion plugin for nvim
+
+https://www.reddit.com/r/neovim/comments/l6okhx/nvimcompe_is_an_excellent_autocompletion_plugin/
+
+https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
+
+### auto pair
+
+`https://github.com/cohama/lexima.vim` Auto close parentheses and repeat by dot dot dot... 
 
 ### comment
 
