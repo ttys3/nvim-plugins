@@ -37,9 +37,15 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 
 `https://github.com/tjdevries/colorbuddy.nvim`  Your color buddy for making cool neovim color schemes 
 
+`https://github.com/rktjmp/lush.nvim` Define Neovim themes as a DSL in lua, with real-time feedback. 
 
 ## lang specific
 
 ### rust
 
 `https://github.com/tjdevries/rofl.nvim`  Neovim commenting plugin, written in lua. 
+
+
+## tips
+
+<https://rishabhrd.github.io/jekyll/update/2020/09/19/nvim_lsp_config.html> Customizing Neovim LSP (nvim-lsp) 
