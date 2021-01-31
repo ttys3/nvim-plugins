@@ -29,6 +29,10 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 
 `https://github.com/adelarsq/neoline.vim`  Status Line for Neovim focused on beauty and performance   https://www.reddit.com/r/neovim/comments/l4y7my/neolinevim_status_line_for_neovim_focused_on/
 
+### git
+
+`https://github.com/f-person/git-blame.nvim` Git Blame plugin for Neovim written in Lua 
+
 ## utils
 
 `https://github.com/Iron-E/nvim-highlite`  A colorscheme template that is "lite" on logic for the developer.  
