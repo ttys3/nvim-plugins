@@ -3,11 +3,16 @@
 
 ## common
 
-### lsp
+### lsp && completion
+
+`https://github.com/nvim-lua/completion-nvim` A async completion framework aims to provide completion to neovim's built in LSP written in Lua 
 
 `https://github.com/neovim/nvim-lspconfig` Quickstart configurations for the Nvim LSP client 
 
 `https://github.com/RishabhRD/nvim-lsputils` Better defaults for nvim-lsp actions 
+
+
+`https://github.com/neoclide/coc.nvim`  Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers. 
 
 `https://github.com/hrsh7th/nvim-compe` Auto completion plugin for nvim
 
@@ -18,6 +23,8 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 ### auto pair
 
 `https://github.com/cohama/lexima.vim` Auto close parentheses and repeat by dot dot dot... 
+
+`https://github.com/windwp/nvim-autopairs` autopairs for neovim written by lua 
 
 ### comment
 
@@ -32,6 +39,12 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 ### git
 
 `https://github.com/f-person/git-blame.nvim` Git Blame plugin for Neovim written in Lua 
+
+`https://github.com/APZelos/blamer.nvim`  A git blame plugin for neovim inspired by VS Code's GitLens plugin 
+
+### syntax enhance
+
+`https://github.com/nvim-treesitter/nvim-treesitter` The goal of nvim-treesitter is both to provide a simple and easy way to use the interface for tree-sitter in Neovim and to provide some basic functionality such as highlighting based on it
 
 ## utils
 
