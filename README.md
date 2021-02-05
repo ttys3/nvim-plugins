@@ -26,6 +26,10 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 
 `https://github.com/windwp/nvim-autopairs` autopairs for neovim written by lua 
 
+`https://github.com/jiangmiao/auto-pairs`
+
+`https://github.com/Raimondi/delimitMate`
+
 ### rainbow parentheses
 
 `https://github.com/p00f/nvim-ts-rainbow`  Rainbow parentheses for neovim using tree-sitter 
