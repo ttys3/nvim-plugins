@@ -26,6 +26,14 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 
 `https://github.com/windwp/nvim-autopairs` autopairs for neovim written by lua 
 
+### rainbow parentheses
+
+`https://github.com/p00f/nvim-ts-rainbow`  Rainbow parentheses for neovim using tree-sitter 
+
+`https://github.com/junegunn/rainbow_parentheses.vim` A heavily-rewritten fork of kien/rainbow_parentheses.vim
+
+`https://github.com/luochen1990/rainbow`  Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration. 
+
 ### comment
 
 `https://github.com/b3nj5m1n/kommentary`  Neovim commenting plugin, written in lua. 
