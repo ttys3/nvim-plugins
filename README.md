@@ -59,6 +59,9 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 
 `https://github.com/APZelos/blamer.nvim`  A git blame plugin for neovim inspired by VS Code's GitLens plugin 
 
+git gutter: `glepnir/indent-guides.nvim` replace airblade/vim-gitgutter, mhinz/vim-signify
+
+
 ### syntax enhance
 
 `https://github.com/nvim-treesitter/nvim-treesitter` The goal of nvim-treesitter is both to provide a simple and easy way to use the interface for tree-sitter in Neovim and to provide some basic functionality such as highlighting based on it
