@@ -7,14 +7,18 @@
 
 `https://github.com/nvim-lua/completion-nvim` A async completion framework aims to provide completion to neovim's built in LSP written in Lua 
 
+`https://github.com/hrsh7th/nvim-compe` Auto completion plugin for nvim
+
 `https://github.com/neovim/nvim-lspconfig` Quickstart configurations for the Nvim LSP client 
 
+
 `https://github.com/RishabhRD/nvim-lsputils` Better defaults for nvim-lsp actions 
+
+`https://github.com/glepnir/lspsaga.nvim` A light-weight lsp plugin based on neovim built-in lsp with highly a performant UI.
 
 
 `https://github.com/neoclide/coc.nvim`  Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers. 
 
-`https://github.com/hrsh7th/nvim-compe` Auto completion plugin for nvim
 
 https://www.reddit.com/r/neovim/comments/l6okhx/nvimcompe_is_an_excellent_autocompletion_plugin/
 
