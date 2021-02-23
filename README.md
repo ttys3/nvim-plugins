@@ -94,3 +94,9 @@ https://github.com/glepnir/dashboard-nvim
 ## tips
 
 <https://rishabhrd.github.io/jekyll/update/2020/09/19/nvim_lsp_config.html> Customizing Neovim LSP (nvim-lsp) 
+
+
+## see also
+
+<https://github.com/nvim-lua/wishlist>
+
