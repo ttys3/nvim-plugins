@@ -87,6 +87,10 @@ git gutter: `glepnir/indent-guides.nvim` replace airblade/vim-gitgutter, mhinz/v
 `https://github.com/tjdevries/rofl.nvim`  Neovim commenting plugin, written in lua. 
 
 
+## dashboard
+
+https://github.com/glepnir/dashboard-nvim
+
 ## tips
 
 <https://rishabhrd.github.io/jekyll/update/2020/09/19/nvim_lsp_config.html> Customizing Neovim LSP (nvim-lsp) 
