@@ -80,6 +80,10 @@ git gutter: `glepnir/indent-guides.nvim` replace airblade/vim-gitgutter, mhinz/v
 
 `https://github.com/rktjmp/lush.nvim` Define Neovim themes as a DSL in lua, with real-time feedback. 
 
+## float term
+vim:  `https://github.com/voldikss/vim-floaterm`
+lua `https://github.com/numToStr/FTerm.nvim`
+
 ## lang specific
 
 ### rust
