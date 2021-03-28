@@ -20,6 +20,9 @@
 `https://github.com/neoclide/coc.nvim`  Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers. 
 
 
+`https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils` Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
+
+
 https://www.reddit.com/r/neovim/comments/l6okhx/nvimcompe_is_an_excellent_autocompletion_plugin/
 
 https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
@@ -64,6 +67,17 @@ https://www.reddit.com/r/neovim/comments/l61gzb/builtin_lsp_client_exeprience/
 `https://github.com/APZelos/blamer.nvim`  A git blame plugin for neovim inspired by VS Code's GitLens plugin 
 
 git gutter: `glepnir/indent-guides.nvim` replace airblade/vim-gitgutter, mhinz/vim-signify
+
+
+### debug
+
+`https://github.com/mfussenegger/nvim-dap` neovim DAP client plugin
+
+`https://github.com/puremourning/vimspector` vim DAP client plugin
+
+---
+
+`https://github.com/jbyuki/lua-debug.nvim`  DAP lua adapter 
 
 
 ### syntax enhance
