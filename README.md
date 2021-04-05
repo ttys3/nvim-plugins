@@ -104,6 +104,9 @@ lua `https://github.com/numToStr/FTerm.nvim`
 
 `https://github.com/tjdevries/rofl.nvim`  Neovim commenting plugin, written in lua. 
 
+### golang
+
+`https://github.com/zchee/nvim-go`  the neovim version `https://github.com/govim/govim`
 
 ## dashboard
 
